@@ -1,2 +1,6 @@
-# micronuat-counter
-testing out counter behaviour
+## micronaut micrometer counter
+
+Recreating issue with micronaut micrometer counter
+
+
+
